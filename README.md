@@ -1,1 +1,1 @@
-# aulas_js_jedi
+# Repositório para aprendizado de programação
